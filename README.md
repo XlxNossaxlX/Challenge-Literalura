@@ -15,5 +15,3 @@ La aplicación te ofrece las siguientes opciones para explorar y gestionar la bi
 * **🌐 Listar libros por idioma:** Filtra y muestra los libros guardados según el idioma de tu elección.
 * **📊 Generar estadísticas:** Calcula y muestra estadísticas clave sobre los libros, como el número promedio de descargas.
 * **🏆 Top 10 libros más descargados:** Muestra una lista de los 10 libros más populares de tu colección.
-
-## 🚀 Tecnologías Utilizadas
